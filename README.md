@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingofpers&" alt="kingofpers" /></p>
 
-![snake gif](https://github.com/kingofpers/kingofpers/blob/output/github-contribution-grid-snake.gif
+[![snake gif](https://github.com/kingofpers/kingofpers/blob/output/github-contribution-grid-snake.gif)]
