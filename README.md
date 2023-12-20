@@ -1,4 +1,4 @@
-[![MasterHead](https://media.discordapp.net/attachments/977641453486485544/981949888440958976/f106259032e0857c5dbfde0117734e8f.jpg)]
+![MasterHead](https://media.discordapp.net/attachments/977641453486485544/981949888440958976/f106259032e0857c5dbfde0117734e8f.jpg)
 <h1 align="center">Hi 👋, I'm Kingofpers</h1>
 <h3 align="center">A professional game developer</h3>
 
