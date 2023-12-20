@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **2D Ninja Game**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **Python , Linux**
 
